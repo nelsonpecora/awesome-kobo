@@ -21,11 +21,7 @@ Software that runs on your Kobo itself. These are usually installed by:
 2. Adding the relevant `KoboRoot.tgz` file to the `/.kobo` directory of your device
 3. Ejecting and disconnecting your device, which will trigger the app installation
 
-{% note %}
-
-**Note:** Many apps have required config files that you need to fill out after they've installed. You'll need to reconnect your device to edit the config file afterwards, so don't forget about this step!
-
-{% endnote %}
+> **Note:** Many apps have required config files that you need to fill out after they've installed. You'll need to reconnect your device to edit the config file afterwards, so don't forget about this step!
 
 * [NickelDBus](https://github.com/shermp/NickelDBus) - A library that allows app developers to hook into Kobo's native application. Required by many apps
 * [NickelMenu](https://github.com/pgaskin/NickelMenu) - Adds a new menu to Kobo's native app. Used by many apps to provide UI controls
