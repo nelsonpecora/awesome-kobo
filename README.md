@@ -37,6 +37,7 @@ Software that runs on your Kobo itself. These are usually installed by:
 
 * [Dictutil](https://pgaskin.net/dictutil/) - Custom dictionaries and tools to create them
 * [Kepubify](https://pgaskin.net/kepubify/) - Converts EPUB files into Kobo's enhanced KEPUB format
+* [Screvi](https://screvi.com) - Highlights manager that imports Kobo highlights from `KoboReader.sqlite` (parsed in the browser) or via its KOReader plugin, with daily review and export to Obsidian and Notion (paid, not open source)
 
 ## Alternate Reading Apps
 
