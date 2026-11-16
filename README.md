@@ -31,6 +31,7 @@ Software that runs on your Kobo itself. These are usually installed by:
 * [NickelSeries](https://www.mobileread.com/forums/showthread.php?p=4013888) - Adds support for series and subtitle metadata on sideloaded ebooks
 * [Kobo Weather App](https://bitbucket.org/david_weese/kobo-weather-app/src/master/) - Weather forecast app
 * [Wallabako](https://gitlab.com/anarcat/wallabako) - Kobo reader for [Wallabag](https://www.wallabag.it/en) articles
+* [InoInk](https://github.com/justmytwospence/InoInk) - Offline [Inoreader](https://www.inoreader.com) RSS client, launched from NickelMenu
 * [NickelClock](https://www.mobileread.com/forums/showthread.php?t=347608) - A small app that shows the Kobo time widget while reading
 
 ## Useful Utils
